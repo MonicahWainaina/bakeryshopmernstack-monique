@@ -2,7 +2,6 @@
 
 > Ecommerce website built with  MERN stack with React Context API for state management, pure CSS for style
 
-## Demo: https://bakeryshopmernstack-monique.herokuapp.com/)
 
 ##Author: Monique
 
